@@ -255,14 +255,14 @@ li {
   line-height:2.7;
 }
 
-#works{
+#gallery{
     width: 100%;
     padding:50px 0 50px 0;
 }
-#works .slick-area{
+#gallery .slick-area{
     font-size: 0;
 }
-#works .slick-area li{
+#gallery .slick-area li{
     padding: 0 30px;
 }
 
@@ -375,10 +375,10 @@ li {
       top:50%;
     }
 
-    #works {
+    #gallery {
       padding: 0 0 40px 0;
     }
-    #works .slick-area li {
+    #gallery .slick-area li {
       padding: 0 20px;
     }
 
