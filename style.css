@@ -265,7 +265,7 @@ li {
 #gallery .slick-area li{
   padding: 0 30px;
 }
-#gallery .slick-slide{
+.slick-slide{
   padding-left:50px;
 }
 
